@@ -1,4 +1,4 @@
-name: myspb_flutter
+name: myspb
 description: My Saint-Petersburg
 
 # The following defines the version and build number for your application.
@@ -23,7 +23,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
-  provider: ^4.0.4
+  provider: ^4.1.1
 
 dev_dependencies:
   flutter_test:

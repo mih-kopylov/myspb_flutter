@@ -1,3 +1,6 @@
+import 'package:flutter/material.dart';
+
+@immutable
 class Reason {
   final int id;
   final int parentId;

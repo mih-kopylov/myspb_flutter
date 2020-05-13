@@ -27,7 +27,7 @@ class IndexPage extends StatelessWidget {
               title: Text("Категории"),
             ),
             BottomNavigationBarItem(
-              icon: Icon(Icons.sync),
+              icon: Icon(Icons.autorenew),
               title: Text("Очередь"),
             ),
             BottomNavigationBarItem(

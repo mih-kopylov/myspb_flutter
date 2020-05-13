@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 
 @immutable
-class Reason {
+class Group {
   final int id;
   final int parentId;
   final String name;
-  final int externalReasonId;
   final String description;
 
-  Reason(this.id, this.parentId, this.name, this.externalReasonId,
-      this.description);
+  Group(this.id, this.parentId, this.name, this.description);
 }
